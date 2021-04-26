@@ -1,5 +1,13 @@
 # git_grupo
 
-criação do repositorio - 26/04/21 - 10:00
+Sobre o projeto:
+    repositorio criado para estudo da funcionalides Git e sobre trabalho em grupo
 
-teste de push - 26/04/21 - 10:04
+Autor: 
+    Warlei O. Santos
+    
+lincensa:
+    open-source(fique à vontade para dar dicas)
+
+change log:
+26/04/21 - 10:13 : primeira edição do README.md
