@@ -5,3 +5,4 @@ teste de push - 26/04/21 - 10:04
 craição do roteiro.txt - 26/04/21 - 10:10
 
 criar branch release - 26/04/21 - 10:25
+
